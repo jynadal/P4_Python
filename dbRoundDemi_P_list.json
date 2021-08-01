@@ -1,0 +1,74 @@
+[
+  {
+    "fname": "Smith",
+    "lname": "nathan",
+    "DBirth": "2000",
+    "gender": "male",
+    "points": 2.5,
+    "win": "True",
+    "rang": "2"
+  },
+  {
+    "fname": "Sean",
+    "lname": "Spinoza",
+    "DBirth": "01/02/2000",
+    "gender": "male",
+    "points": 2,
+    "win": "False",
+    "rang": "4"
+  },
+  {
+    "fname": "Sarah",
+    "lname": "Johnson",
+    "DBirth": "01/06/2001",
+    "gender": "female",
+    "points": 2,
+    "win": "True",
+    "rang": "1"
+  },
+  {
+    "fname": "Rosa",
+    "lname": "france",
+    "DBirth": "1979",
+    "gender": "female",
+    "points": 1.5,
+    "win": "False",
+    "rang": "6"
+  },
+  {
+    "fname": "Paul",
+    "lname": "Lapin",
+    "DBirth": "1998",
+    "gender": "male",
+    "points": 1,
+    "win": "False",
+    "rang": "7"
+  },
+  {
+    "fname": "John",
+    "lname": "Smithas",
+    "DBirth": "01/02/2000",
+    "gender": "male",
+    "points": 0,
+    "win": "False",
+    "rang": "3"
+  },
+  {
+    "fname": "Teddy",
+    "lname": "Bear",
+    "DBirth": "01/02/2001",
+    "gender": "male",
+    "points": 0,
+    "win": "False",
+    "rang": "5"
+  },
+  {
+    "fname": "Zora",
+    "lname": "Regis",
+    "DBirth": "1999",
+    "gender": "female",
+    "points": 0,
+    "win": "False",
+    "rang": "8"
+  }
+]

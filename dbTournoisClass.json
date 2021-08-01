@@ -1,0 +1,5 @@
+{
+  "_default": {
+    "1": { "name": "ECHEC", "T_Begin": "01", "T_End": "02", "Nbr_players": 8 }
+  }
+}

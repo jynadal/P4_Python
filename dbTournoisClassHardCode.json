@@ -1,0 +1,16 @@
+{
+  "_default": {
+    "1": {
+      "name": "Match & Echec",
+      "T_Begin": "01/01/2021",
+      "T_End": "02/01/2021",
+      "Nbr_players": 8
+    },
+    "2": {
+      "name": "Echec et Match",
+      "T_Begin": "01022020",
+      "T_End": "02022020",
+      "Nbr_players": 8
+    }
+  }
+}

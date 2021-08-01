@@ -1,0 +1,40 @@
+{
+  "_default": {
+    "1": {
+      "equipe_A": [
+        {
+          "fname": "Sarah",
+          "lname": "Johnson",
+          "DBirth": "01/06/2001",
+          "gender": "female",
+          "points": 1,
+          "rang": "1"
+        },
+        {
+          "fname": "Smith",
+          "lname": "nathan",
+          "DBirth": "2000",
+          "gender": "male",
+          "points": 0.5,
+          "rang": "2"
+        },
+        {
+          "fname": "John",
+          "lname": "Smithas",
+          "DBirth": "01/02/2000",
+          "gender": "male",
+          "points": 0,
+          "rang": "3"
+        },
+        {
+          "fname": "Sean",
+          "lname": "Spinoza",
+          "DBirth": "01/02/2000",
+          "gender": "male",
+          "points": 1,
+          "rang": "4"
+        }
+      ]
+    }
+  }
+}

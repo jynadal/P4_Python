@@ -1,0 +1,40 @@
+{
+  "_default": {
+    "1": {
+      "equipe_B": [
+        {
+          "fname": "Teddy",
+          "lname": "Bear",
+          "DBirth": "01/02/2001",
+          "gender": "male",
+          "points": 0,
+          "rang": "5"
+        },
+        {
+          "fname": "Rosa",
+          "lname": "france",
+          "DBirth": "1979",
+          "gender": "female",
+          "points": 0.5,
+          "rang": "6"
+        },
+        {
+          "fname": "Paul",
+          "lname": "Lapin",
+          "DBirth": "1998",
+          "gender": "male",
+          "points": 1,
+          "rang": "7"
+        },
+        {
+          "fname": "Zora",
+          "lname": "Regis",
+          "DBirth": "1999",
+          "gender": "female",
+          "points": 0,
+          "rang": "8"
+        }
+      ]
+    }
+  }
+}
